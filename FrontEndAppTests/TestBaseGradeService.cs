@@ -50,91 +50,91 @@ namespace FrontEndAppTests {
                 From = 0,
                 To = 59.4,
                 LetterGrade = "F",
-                ScaleId = 1
+                Id = 1
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 59.5,
                 To = 62.4,
                 LetterGrade = "D-",
-                ScaleId = 2
+                Id = 2
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 62.5,
                 To = 67.4,
                 LetterGrade = "D",
-                ScaleId = 3
+                Id = 3
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 67.5,
                 To = 69.4,
                 LetterGrade = "D+",
-                ScaleId = 4
+                Id = 4
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 69.5,
                 To = 72.4,
                 LetterGrade = "C-",
-                ScaleId = 5
+                Id = 5
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 72.5,
                 To = 77.4,
                 LetterGrade = "C",
-                ScaleId = 6
+                Id = 6
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 77.5,
                 To = 79.4,
                 LetterGrade = "C+",
-                ScaleId = 7
+                Id = 7
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 79.5,
                 To = 82.4,
                 LetterGrade = "B-",
-                ScaleId = 8
+                Id = 8
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 82.5,
                 To = 87.4,
                 LetterGrade = "B",
-                ScaleId = 9
+                Id = 9
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 87.5,
                 To = 89.4,
                 LetterGrade = "B+",
-                ScaleId = 10
+                Id = 10
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 89.5,
                 To = 92.4,
                 LetterGrade = "A-",
-                ScaleId = 11
+                Id = 11
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 92.5,
                 To = 97.4,
                 LetterGrade = "A",
-                ScaleId = 12
+                Id = 12
             },
             new LetterGradeScale() {
                 InstitutionName = "Test Institution",
                 From = 97.5,
                 To = 100,
                 LetterGrade = "A+",
-                ScaleId = 13
+                Id = 13
             }
         };
         
