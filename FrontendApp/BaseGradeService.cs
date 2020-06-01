@@ -133,6 +133,11 @@ namespace FrontendApp {
             };
         }
 
+        /// <summary>
+        /// Calculates the GPA given a list of courses.
+        /// </summary>
+        /// <param name="courses">The list of <see cref="Course"/> objects to use when calculating GPA.</param>
+        /// <returns>The calculated GPA.</returns>
         private double calculateGpa(List<Course> courses) {
             double creditHours = 0,
                 gradePoints = 0;
@@ -158,6 +163,11 @@ namespace FrontendApp {
             return gradePoints / creditHours;
         }
 
+        /// <summary>
+        /// Calculates the GPA given a group of <see cref="CourseLoad"/> objects.
+        /// </summary>
+        /// <param name="courseLoads">The course loads to use when calculating the GPA.</param>
+        /// <returns>The GPA calculated.</returns>
         private double calculateCummulativeGpa(List<CourseLoad> courseLoads) {
             List<Course> courses = new List<Course>();
             foreach (CourseLoad load in courseLoads) {
