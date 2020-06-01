@@ -1,9 +1,0 @@
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\bin\Debug\netcoreapp3.1\RelationshipTrackerLib.deps.json
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\bin\Debug\netcoreapp3.1\RelationshipTrackerLib.dll
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\obj\Debug\netcoreapp3.1\RelationshipTrackerLib.AssemblyInfoInputs.cache
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\obj\Debug\netcoreapp3.1\RelationshipTrackerLib.AssemblyInfo.cs
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\bin\Debug\netcoreapp3.1\RelationshipTrackerLib.pdb
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\obj\Debug\netcoreapp3.1\RelationshipTrackerLib.csprojAssemblyReference.cache
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\obj\Debug\netcoreapp3.1\RelationshipTrackerLib.csproj.CoreCompileInputs.cache
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\obj\Debug\netcoreapp3.1\RelationshipTrackerLib.dll
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\RelationshipTrackerLib\obj\Debug\netcoreapp3.1\RelationshipTrackerLib.pdb

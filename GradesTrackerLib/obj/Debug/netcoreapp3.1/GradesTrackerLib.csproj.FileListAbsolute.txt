@@ -1,9 +1,0 @@
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\bin\Debug\netcoreapp3.1\GradesTrackerLib.deps.json
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\bin\Debug\netcoreapp3.1\GradesTrackerLib.dll
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\obj\Debug\netcoreapp3.1\GradesTrackerLib.csprojAssemblyReference.cache
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\obj\Debug\netcoreapp3.1\GradesTrackerLib.AssemblyInfoInputs.cache
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\obj\Debug\netcoreapp3.1\GradesTrackerLib.AssemblyInfo.cs
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\bin\Debug\netcoreapp3.1\GradesTrackerLib.pdb
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\obj\Debug\netcoreapp3.1\GradesTrackerLib.csproj.CoreCompileInputs.cache
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\obj\Debug\netcoreapp3.1\GradesTrackerLib.dll
-C:\Users\wning\source\repos\wningram\acad-helper\AcadHelper\GradesTrackerLib\obj\Debug\netcoreapp3.1\GradesTrackerLib.pdb
